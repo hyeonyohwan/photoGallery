@@ -2229,7 +2229,7 @@
     "assert" "1.4.1"
     "camelcase" "5.0.0"
     "loader-utils" "1.2.3"
-    "object-path" "0.11.4"
+    "object-path" "0.11.5"
     "regex-parser" "2.2.10"
 
 "agent-base@6":
@@ -5838,10 +5838,10 @@
   "resolved" "https://registry.npmjs.org/ignore/-/ignore-4.0.6.tgz"
   "version" "4.0.6"
 
-"immer@1.10.0":
+"immer@^8.0.1":
   "integrity" "sha512-O3sR1/opvCDGLEVcvrGTMtLac8GJ5IwZC4puPrLuRj3l7ICKvkmA0vGuU9OW8mV9WIBRnaxp5GJh9IEAaNOoYg=="
-  "resolved" "https://registry.npmjs.org/immer/-/immer-1.10.0.tgz"
-  "version" "1.10.0"
+  "resolved" "https://registry.npmjs.org/immer/-/immer-8.0.1.tgz"
+  "version" "8.0.1"
 
 "import-cwd@^2.0.0":
   "integrity" "sha1-qmzzbnInYShcs3HsZRn1PiQ1sKk="
@@ -6300,10 +6300,10 @@
   "resolved" "https://registry.npmjs.org/is-string/-/is-string-1.0.5.tgz"
   "version" "1.0.5"
 
-"is-svg@^3.0.0":
+"is-svg@^4.2.2":
   "integrity" "sha512-gi4iHK53LR2ujhLVVj+37Ykh9GLqYHX6JOVXbLAucaG/Cqw9xwdFOjDM2qeifLs1sF1npXXFvDu0r5HNgCMrzQ=="
-  "resolved" "https://registry.npmjs.org/is-svg/-/is-svg-3.0.0.tgz"
-  "version" "3.0.0"
+  "resolved" "https://registry.npmjs.org/is-svg/-/is-svg-4.2.2.tgz"
+  "version" "4.2.2"
   dependencies:
     "html-comment-regex" "^1.1.0"
 
@@ -7811,10 +7811,10 @@
   "resolved" "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz"
   "version" "1.1.1"
 
-"object-path@0.11.4":
+"object-path@0.11.5":
   "integrity" "sha1-NwrnUvvzfePqcKhhwju6iRVpGUk="
-  "resolved" "https://registry.npmjs.org/object-path/-/object-path-0.11.4.tgz"
-  "version" "0.11.4"
+  "resolved" "https://registry.npmjs.org/object-path/-/object-path-0.11.5.tgz"
+  "version" "0.11.5"
 
 "object-visit@^1.0.0":
   "integrity" "sha1-95xEk68MU3e1n+OdOV5BBC3QRbs="
@@ -8975,7 +8975,7 @@
   "resolved" "https://registry.npmjs.org/postcss-svgo/-/postcss-svgo-4.0.2.tgz"
   "version" "4.0.2"
   dependencies:
-    "is-svg" "^3.0.0"
+    "is-svg" "^4.2.2"
     "postcss" "^7.0.0"
     "postcss-value-parser" "^3.0.0"
     "svgo" "^1.0.0"
@@ -9294,10 +9294,10 @@
     "regenerator-runtime" "^0.13.3"
     "whatwg-fetch" "^3.0.0"
 
-"react-dev-utils@^10.2.1":
+"react-dev-utils@^11.0.4":
   "integrity" "sha512-XxTbgJnYZmxuPtY3y/UV0D8/65NKkmaia4rXzViknVnZeVlklSh8u6TnaEYPfAi/Gh1TP4mEOXHI6jQOPbeakQ=="
-  "resolved" "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-10.2.1.tgz"
-  "version" "10.2.1"
+  "resolved" "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-11.0.4.tgz"
+  "version" "11.0.4"
   dependencies:
     "@babel/code-frame" "7.8.3"
     "address" "1.1.2"
@@ -9312,7 +9312,7 @@
     "global-modules" "2.0.0"
     "globby" "8.0.2"
     "gzip-size" "5.1.1"
-    "immer" "1.10.0"
+    "immer" "8.0.1"
     "inquirer" "7.0.4"
     "is-root" "2.1.0"
     "loader-utils" "1.2.3"
@@ -10460,10 +10460,10 @@
     "safer-buffer" "^2.0.2"
     "tweetnacl" "~0.14.0"
 
-"ssri@^6.0.1":
+"ssri@^8.0.1":
   "integrity" "sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA=="
-  "resolved" "https://registry.npmjs.org/ssri/-/ssri-6.0.1.tgz"
-  "version" "6.0.1"
+  "resolved" "https://registry.npmjs.org/ssri/-/ssri-8.0.1.tgz"
+  "version" "8.0.1"
   dependencies:
     "figgy-pudding" "^3.5.1"
 
