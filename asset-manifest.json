@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/photoGallery/static/css/main.7d68e5a8.chunk.css",
+    "main.js": "/github.io/photoGallery/static/js/main.d053530d.chunk.js",
+    "main.js.map": "/github.io/photoGallery/static/js/main.d053530d.chunk.js.map",
+    "runtime-main.js": "/github.io/photoGallery/static/js/runtime-main.f4bae608.js",
+    "runtime-main.js.map": "/github.io/photoGallery/static/js/runtime-main.f4bae608.js.map",
+    "static/js/2.9e357311.chunk.js": "/github.io/photoGallery/static/js/2.9e357311.chunk.js",
+    "static/js/2.9e357311.chunk.js.map": "/github.io/photoGallery/static/js/2.9e357311.chunk.js.map",
+    "index.html": "/github.io/photoGallery/index.html",
+    "precache-manifest.ad1811af87e636775c6e29507a296348.js": "/github.io/photoGallery/precache-manifest.ad1811af87e636775c6e29507a296348.js",
+    "service-worker.js": "/github.io/photoGallery/service-worker.js",
+    "static/css/main.7d68e5a8.chunk.css.map": "/github.io/photoGallery/static/css/main.7d68e5a8.chunk.css.map",
+    "static/js/2.9e357311.chunk.js.LICENSE.txt": "/github.io/photoGallery/static/js/2.9e357311.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4bae608.js",
+    "static/js/2.9e357311.chunk.js",
+    "static/css/main.7d68e5a8.chunk.css",
+    "static/js/main.d053530d.chunk.js"
+  ]
+}
